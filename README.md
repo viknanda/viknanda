@@ -1,5 +1,5 @@
-I work where hardware, software, security, and privacy meet.
+I am an Electrical & Computer Engineer (ECE) by academic background specialized in Security, Privacy, and Risk Management.
 
-I put a new security chip in Pixel (Titan M), a new OS on Nest Smart Displays (Fuchsia), then ran Trust Foundations for Search and privacy for Photos. Same craft, later, on Figure's F.04 humanoid.
+I run towards hard problems. Such as those at the intersection of hardware, software, security, and privacy. Humanoids, anyone?
 
-I teach it at [Northeastern Khoury](https://www.khoury.northeastern.edu/people/vikrant-nanda/) in Silicon Valley, and help run [SVCSI](https://www.svcsi.org/executive-team). I write about [information risk](https://riskperspective.wordpress.com), I [photograph](https://www.flickr.com/photos/vikrantnanda), and I shipped [autorick-game](https://github.com/viknanda/autorick-game) for kids.
+I also [teach](https://www.khoury.northeastern.edu/people/vikrant-nanda/), [tinker](https://viknanda.github.io/autorick-game/), and [volunteer](https://www.svcsi.org/executive-team).
